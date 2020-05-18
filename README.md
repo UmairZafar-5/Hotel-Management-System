@@ -1,12 +1,13 @@
 This is a Hotel Management System project based on console created in C language . This is my first semester Programming Fundamental Project. I use structure and array to save user data temporary.
 
 **Features**
+
 In this project we have 7 feactures.
 
-1. Get availability:
+**1. Get availability:**
 hotel receptionist can check how much rooms are available
 
-2. Features of room:
+**2. Features of room:**
 They can check all the features of the room.
 
 3. Room Allocation:
