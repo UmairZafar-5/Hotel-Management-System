@@ -1,3 +1,5 @@
+**Description**
+
 This is a Hotel Management System project based on console created in C language . This is my first semester Programming Fundamental Project. I use structure and array to save user data temporary.
 
 **Features:**
